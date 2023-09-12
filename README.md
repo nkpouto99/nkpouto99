@@ -1,12 +1,12 @@
- ### Hi 👋, I'm Sunil B.k 👋
+ ### Hi 👋, I'm Mkpouto Francis 👋
 
-- 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express,TypeScript, Mongodb and MYSQL 
-- 🌱 I’m currently learning NodeJs and Express
+- 🔭 I’m currently working on HTML, CSS, Tailwind CSS, Boostrap5, JavaScript, ReactJs, Material UI, RESTAPI, NodeJs, Express and Mongodb
+- 🌱 I’m currently learning ReactJS and TailWind CSS
 - 👯 I’m looking to collaborate on Youtube and Full Stack Developer
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... MERN
 - 😄 Pronouns: ... YES
-- ⚡ Fun fact: ... I am Funny and I love to Code
+- ⚡ Fun fact: ... Coding is my hubby
 
 
 ![](https://github-readme-stats.vercel.app/api?username=sunil9813&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
