@@ -1,20 +1,20 @@
- ### Hi 👋, I'm Mkpouto Francis 👋
+ ### Hi 👋, I'm Sunil B.k 👋
 
-- 🔭 I’m currently working on HTML, CSS, Tailwind CSS, Boostrap5, JavaScript, ReactJs, Material UI, RESTAPI, NodeJs, Express and Mongodb
-- 🌱 I’m currently learning ReactJS and TailWind CSS
+- 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express,TypeScript, Mongodb and MYSQL 
+- 🌱 I’m currently learning NodeJs and Express
 - 👯 I’m looking to collaborate on Youtube and Full Stack Developer
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... MERN
 - 😄 Pronouns: ... YES
-- ⚡ Fun fact: ... Coding is my hubby
+- ⚡ Fun fact: ... I am Funny and I love to Code
 
 
-![](https://github-readme-stats.vercel.app/api?username=sunil9813&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sunil9813&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil9813&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nkpouto99&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nkpouto99&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nkpouto99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sunil9813&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nkpouto99&icon=0&color=0)](https://visitcount.itsvg.in)
 
  
 ### Connect with me:
